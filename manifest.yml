@@ -1,0 +1,4 @@
+applications:
+- name: secure-your-cfapp-with-appid
+  random-route: true
+  memory: 128M
